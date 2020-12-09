@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\ArrayPartition\ArrayPartition\bin\Debug\netcoreapp3.1\ArrayPartition.exe
+C:\Users\monisha.khapali\source\repos\ArrayPartition\ArrayPartition\bin\Debug\netcoreapp3.1\ArrayPartition.deps.json
+C:\Users\monisha.khapali\source\repos\ArrayPartition\ArrayPartition\bin\Debug\netcoreapp3.1\ArrayPartition.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\ArrayPartition\ArrayPartition\bin\Debug\netcoreapp3.1\ArrayPartition.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\ArrayPartition\ArrayPartition\bin\Debug\netcoreapp3.1\ArrayPartition.dll
+C:\Users\monisha.khapali\source\repos\ArrayPartition\ArrayPartition\bin\Debug\netcoreapp3.1\ArrayPartition.pdb
+C:\Users\monisha.khapali\source\repos\ArrayPartition\ArrayPartition\obj\Debug\netcoreapp3.1\ArrayPartition.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\ArrayPartition\ArrayPartition\obj\Debug\netcoreapp3.1\ArrayPartition.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\ArrayPartition\ArrayPartition\obj\Debug\netcoreapp3.1\ArrayPartition.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\ArrayPartition\ArrayPartition\obj\Debug\netcoreapp3.1\ArrayPartition.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\ArrayPartition\ArrayPartition\obj\Debug\netcoreapp3.1\ArrayPartition.dll
+C:\Users\monisha.khapali\source\repos\ArrayPartition\ArrayPartition\obj\Debug\netcoreapp3.1\ArrayPartition.pdb
+C:\Users\monisha.khapali\source\repos\ArrayPartition\ArrayPartition\obj\Debug\netcoreapp3.1\ArrayPartition.genruntimeconfig.cache
